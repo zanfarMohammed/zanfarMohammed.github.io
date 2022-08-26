@@ -1,13 +1,13 @@
 {
 	"status": "ok",
 	"totalResults": 20139,
-	"articles": [{
-			"source": [{
+	"articles": [
+		{
+			"source": {
 					"id": "wiley online library",
 					"name": "wiley online library"
-				},{
 				}
-			],
+			,
 			"author": "ZANFAR Mohammed",
 			"title": "Physical activity",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41142",
@@ -15,12 +15,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Exercise can delay the development of osteoarthritis (OA), one of the most common causes of knee pain. The American College of Rheumatology (ACR) and the Arthritis Foundation (AF)Trusted Source urge people to exercise to manage OA of the knee. Walking, cycling, swimming, tai chi, and yoga may all be beneficial. Being physically active boosts the health of cartilage tissue, whether a person has OA or not. Exercise also strengthens the way the body supports the joints. Strengthening the leg muscles is especially beneficial for the knees. People with joint pain can benefit from activities such as water aerobics, as this puts little strain on the knees."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Strengthening exercises",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41142",
@@ -28,12 +26,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Individuals can work with a physical therapist to identify the best exercises and programs for their needs. Strengthening the upper leg muscles—the quadriceps muscles—through exercise can help to protect the knee joint. These muscles are at the sides and front of the thighs. Here are some ways to strengthen these muscles: Straighten and raise a leg while lying or sitting down. Place one foot up on a step, then the other, stepping down again, and repeating the step-ups. Sit on a chair and then stand and sit repeatedly for a minute. Do this in a slow, controlled way and avoid using the hands to support you. Hold a chair and squat until the kneecaps cover the toes. Do this 10 times."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Posture and support",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41142",
@@ -41,12 +37,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Measures that can help to minimize knee strain include: avoiding low chairs and couches that you “sink” into. sitting on a pillow to raise your seating level, if necessary. checking that you have a good sitting posture, without slouching or leaning. wearing supportive shoes and avoiding those with broken arches, as they can result in abnormal force and wear on the knee. avoiding prolonged sitting and long periods without moving, as joints may become stiff and painful without movement"
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Weight loss and diet",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41142",
@@ -54,12 +48,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "People who have excess weight or obesity have a higher risk of knee pain. Carrying extra weight gives the joints more work to do. Losing it helps to reduce long-term knee pain, including pain caused by arthritis. Extra weight on your body increases inflammation throughout the body and the knees are affected. Eating well helps with keeping weight off. A healthful diet means a balanced one that is: high in fruit, vegetables, and fiber - low in meat, animal fat, and other fat. The Arthritis Foundation recommend a Mediterranean-style diet that is rich in fresh produce. ExpertsTrusted Source urge people with OA of the knee to lose weight if they have overweight or obesity. A doctor or dietitian can help decide how much weight a person needs to lose. They can also help plan a suitable diet."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Medications",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41143",
@@ -67,12 +59,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Non-steroidal anti-inflammatory and other medications can help with knee pain caused by arthritis. Some of these need to be given in a doctor’s office, but some can be used at home, either with or without a prescription. Medications that may help manage pain include:\noral or topical non-steroidal anti-inflammatory drugs (NSAIDs)\ntopical capsaicin\nsteroid injections into the joint\ntramadol\nAcetaminophen and duloxetine, which is an antidepressant, may help.\nExpertsTrusted Source do not recommend using opioids, except for tramadol.\nSome of these medications are available for purchase over-the-counter or online, including the NSAIDs ibuprofen and naproxen.\n"
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Massage",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41144",
@@ -80,12 +70,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Massage, including self-massage, may relieve knee pain.\n\nThe American Massage Therapy Association (AMTA) recommend the following.\n\nThese should be done in a seated position with the knees pointing forward and the feet flat on the floor.\n\nLoosely closing the hands into fists, tap the upper, lower, and middle thigh 10 times with both hands. Repeat three times.\nSitting with the feet flat on the floor, place the heel of the hand on the top of the thigh and glide it as far as the knee, then release. Repeat five times. Do the same for the outer and inner sides of the thigh.\nPress four fingers into the knee tissue and move up and down five times. Repeat all around the knee.\nPlace the palm of the hand on top of the thigh, glide it down the thigh, over the knee and back up the outer thigh.\nMassaging the thigh muscles will have a beneficial impact on the knee.\n\nCurrent guidelinesTrusted Source do not recommend massage as a treatment for OA of the knee, as there is not enough evidence to prove that it helps reduce symptoms. However, massage may offer other benefits, such as managing stress."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Aromatherapy preparations",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41145",
@@ -93,12 +81,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Essential oils may help reduce pain.\n\nA study published in 2008 suggested that massaging with an oil containing ginger and orange improved pain and function in knees with moderate to severe pain due to osteoarthritis.\n\nIn one investigation, researchers found that applying an ointment containing cinnamon, ginger, mastic, and sesame oil had a similar effect on pain, stiffness, and motion as using salicylate ointment."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Protection, rest, ice, compression, and elevation (PRICE)",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41146",
@@ -106,12 +92,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Rest, ice, compression, and elevation may help treat mild knee pain that results from a soft tissue injury, such as a sprain.\n\nProtection refers to protecting the knee from further injury, for example, by taking a break from the activity that caused it.\n\nRest can reduce the risk of further injury and give tissues time to heal. However, stopping all movement is not advisable, as this can lead to stiffness and, in time, muscle weakness.\n\nIce can help reduce swelling and inflammation. It should be wrapped in a cloth and applied for 20 minutes several times on the first day of injury. Never put ice directly the skin, as this can lead to further damage.\n\nCompression with a knee support, for example, can increase comfort levels. The support or bandage should be firm but not tight.\n\nElevation, or keeping the leg raised, will encourage circulation and reduce swelling. Ideally, the knee should be above the level of the heart."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Heat and cold",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41147",
@@ -119,12 +103,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Heat and cold can be effectiveTrusted Source in treating pain in the lower back, and it has been recommended to ease joint pain that results from arthritis.\n\nHeat relaxes muscles and improves lubrication, leading to a reduction in stiffness. Use a hot water bottle or a warm pad.\nIce, wrapped in a cloth, can reduce pain, inflammation, and swelling.\nSome people may use heat to improve mobility in the morning and reduce swelling later in the day.\n\nRemember to test any hot item before applying it, especially if it is for an older person or someone who cannot communicate easily."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Climate",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41148",
@@ -132,12 +114,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "A colder climate is often thought to worsen pain.\n\nStudy findings do not support this, although living in a pleasant climate might make pain psychologically easier. It may also provide easier opportunities to achieve a more healthy lifestyle.\n\nIn 2014, researchers found that — rather than weather itself — sensitivity to weather in older people with osteoarthritis may affectTrusted Source how they experience joint pain.\n\nPeople from Southern Europe, women, and those with higher anxiety levels were more likely to report weather sensitivity, and those with higher levels of sensitivity were more likely to report increased pain, especially with damp or rainy and cold weather.\n\nThe results of the study did not support the common belief that pain becomes worse in a colder climate.\n\nA 2017 study carried out in the United States supported this view.Trusted Source Findings showed no link between rainfall and increased medical visits for joint pain."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Acupuncture",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41149",
@@ -145,12 +125,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "In 2017, a study involving 570 people found evidence that acupuncture might help peopleTrusted Source with osteoarthritis in the knee.\n\nParticipants received either 23 true or 23 sham acupuncture sessions over 26 weeks, or 6 acupuncture sessions over 12 weeks.\n\nThose who had true acupuncture scored higher in pain and function scores, compared with the others."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Tai chi",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41150",
@@ -158,12 +136,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Tai chi is a form of meditative exercise, and the benefits of exercise alone are discussed above.\n\nA year-long study of 204 participants with knee osteoarthritis concluded that tai chi might have similar, if not greater, benefitsTrusted Source compared with standard physical therapy. The average age of participants was 60 years.\n\nImprovements in primary outcome scores were recorded in both groups at 12 weeks, and these continued throughout the program.\n\nIn addition, those who did tai chi also saw significant improvements in symptoms of depression and the physical aspects of quality of life, compared with those who underwent standard physical therapy.\n\nThe ACR and AFTrusted Source strongly recommend tai chi as a form of exercise for people with OA of the knee.\n"
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Medical marijuana",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41151",
@@ -171,12 +147,10 @@
 			"publishedAt": "2022-05-26T15:52:49Z",
 			"content": "Recent approval of the use of cannabidiol (CBD), also known as medical marijuana, has provoked interest in it as a solution to a range of health problems.\n\nCBD is not the compound in marijuana that produces psychotropic effects, but it does appear to have a number of pharmacological effects.\n\nAnimal studies have suggestedTrusted Source that it may improve joint pain, because it:\n\ninhibits pain pathway signalling\nhas anti-inflammatory effects\nClinical trials have not proven its safety or effectiveness for use in rheumatic disease, but researchers suggest it should not be ruled out as an option in the future."
 		},{
-			"source": [{
-					"id": "wiley online library",
-					"name": "wiley online library"
-				},{
-				}
-			],
+			"source": {
+                "id": "wiley online library",
+                "name": "wiley online library"
+            },
 			"author": "ZANFAR Mohammed",
 			"title": "Apple cider vinegar and other foods",
 			"url": "https://onlinelibrary.wiley.com/doi/full/10.1002/art.41152",
